@@ -1,0 +1,1 @@
+To create a reliable API for calculating the area of a square, ensure efficient performance and fast response times, and provide a straightforward integration method for developers.
